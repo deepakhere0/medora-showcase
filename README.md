@@ -94,6 +94,18 @@ Deployed on Railway
 - Google Cloud Vision API
 
 ---
+# Demo Video
+
+🎥 Watch Demo:
+Demo of my project medora (part 1).
+https://youtu.be/wMlOFPlXGGs
+
+Demo of my project medora( part 2).
+https://youtu.be/DTbtXi8GvIE
+
+
+
+---
 
 # System Architecture 🏗️
 
