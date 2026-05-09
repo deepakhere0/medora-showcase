@@ -2,6 +2,7 @@
 AI Powered Healthcare Platform built using React Native, FastAPI and Cloud AI services.
 
 
+
 Built and maintained by Deepak Jangir.
 
 ---
@@ -300,3 +301,5 @@ deepakjangir0702@gmail.com
 This project is protected and maintained for portfolio and demonstration purposes only.
 
 Unauthorized copying or redistribution of source code is not permitted.
+
+ 6bedd7c39deffbf79c9ddeda7bbe6ebf103389e4
